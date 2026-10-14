@@ -23,7 +23,6 @@ A working academic **Retrieval-Augmented Generation (RAG)** application that com
 | Evaluation | Separate retrieval/generation timings, retrieval-only benchmark code and automated unit tests. |
 | User interface | Red, ivory and pale-rose Streamlit interface, document management and session chat history. |
 
-This is an application built around pretrained models, **not a newly trained language model**. The course covers Pinecone, LangGraph and observability platforms, but this implementation uses ChromaDB and direct Python orchestration. It does not claim LangGraph, LangSmith, Langfuse, hybrid search or a reranker.
 
 ## Quick start — Windows
 
