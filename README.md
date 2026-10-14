@@ -8,7 +8,7 @@ A working academic **Retrieval-Augmented Generation (RAG)** application that com
 
 ![GroundLens running with four indexed PDFs and 124 text chunks](screenshots/01-dashboard.png)
 
-[Project report](docs/report/GroundLens_Final_Report_NMIMS_Refined.docx) · [Architecture](docs/ARCHITECTURE.md) · [Recorded results](docs/TESTING.md) · [Screenshots](screenshots/README.md)
+[Final Project Report](docs/docs/report/C033_GroundLens_Final_Report.docx)· [Architecture](docs/ARCHITECTURE.md) · [Recorded results](docs/TESTING.md) · [Screenshots](screenshots/README.md)
 
 ## What this project implements
 
@@ -159,7 +159,7 @@ groundlens-rag/
 └── docs/                   Architecture, results, privacy and the final report
 ```
 
-The [final NMIMS-formatted report](docs/report/GroundLens_Final_Report_NMIMS_Refined.docx) is included unchanged. Its publication-status paragraph reflects the time the report was prepared; no live repository URL had been confirmed then.
+The [Final Project Report](docs/docs/report/C033_GroundLens_Final_Report.docx) is included . 
 
 **Author:** Aryan Paode · C033 · Computer Engineering · MPSTME, NMIMS · Academic Year 2026–27.
 
