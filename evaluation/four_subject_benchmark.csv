@@ -1,0 +1,21 @@
+id,category,question,expected_documents,expected_pages,expected_phrases
+01,MTM / definition,Define organizational change and mention what can change.,MTM_Organizational_Change_Detailed_Revised.pdf,3,Organizational change is
+02,MTM / forces,Distinguish external and internal forces that trigger organizational change.,MTM_Organizational_Change_Detailed_Revised.pdf,4,External forces
+03,MTM / methods,Which six approaches can managers use to overcome resistance to change?,MTM_Organizational_Change_Detailed_Revised.pdf,12,Facilitation
+04,MTM / application,How does Moneyball illustrate organizational resistance to data-driven change?,MTM_Organizational_Change_Detailed_Revised.pdf,17,Billy Beane faces
+05,Game design / concept,What is a lusory attitude and why is it important in games?,Lecture2_Structure_of_Games_Searchable.pdf,9,LUSORY ATTITUDE
+06,Game design / elements,List the formal elements of a game according to the lecture.,Lecture2_Structure_of_Games_Searchable.pdf,19,"Players, objectives, procedures"
+07,Game design / elements,What are the dramatic elements of a game?,Lecture2_Structure_of_Games_Searchable.pdf,21,Dramatic Elements
+08,Game design / compare,How do Go Fish and Quake differ in players and gameplay structure?,Lecture2_Structure_of_Games_Searchable.pdf,5,turn-based card game
+09,Image fundamentals / concept,What is a digital image and what information does a pixel contain?,Unit-1 Image Fundamentals.pdf,1,finite number of elements
+10,Image fundamentals / sampling,Differentiate between sampling and quantization in digital images.,Unit-1 Image Fundamentals.pdf,6,sampling
+11,Image fundamentals / adjacency,What is m-adjacency and why is it introduced?,Unit-1 Image Fundamentals.pdf,9,Mixed adjacency is a modification
+12,Image fundamentals / artifact,What is false contouring and when does it become noticeable?,Unit-1 Image Fundamentals.pdf,4,false contouring
+13,Software engineering / rules,State the three golden rules of user interface design.,Unit-6-UID_JIeh32ZBED(1).pdf,4,Place the user in control
+14,Software engineering / models,What four user interface design models are discussed?,Unit-6-UID_JIeh32ZBED(1).pdf,9,Mental model
+15,Software engineering / analysis,What four aspects does interface analysis investigate?,Unit-6-UID_JIeh32ZBED(1).pdf,11,environment in which
+16,Software engineering / steps,Outline the interface design steps described in Unit 6.,Unit-6-UID_JIeh32ZBED(1).pdf,15,Define events
+17,Cross-document / synthesis,How can user interface golden rules support adoption during organizational change?,Unit-6-UID_JIeh32ZBED(1).pdf;MTM_Organizational_Change_Detailed_Revised.pdf,4;12,Reduce the user;Education
+18,Cross-document / synthesis,How do rules in game design differ from giving users control in software interface design?,Lecture2_Structure_of_Games_Searchable.pdf;Unit-6-UID_JIeh32ZBED(1).pdf,14;5,rules;Allow user interaction
+19,Unsupported / manual,What is the date of the end-semester examination for these four subjects?,,,
+20,Unsupported / manual,What is the NMIMS campus Wi-Fi password?,,,

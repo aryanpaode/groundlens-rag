@@ -1,0 +1,5 @@
+question,observed_answer_outcome,response_seconds,configuration,note
+What is the registration fee?,correct,102.5,Original Gemini configuration,Historical user-reported v1 test
+What is the registration deadline?,correct,139.3,Original Gemini configuration,Historical user-reported v1 test
+What is the official parking fee?,appropriate abstention,9.7,gemini-3.1-flash-lite; 1 attempt; 60s timeout,Explicit statement of absence in PDF
+What is the Wi-Fi password?,appropriate abstention,9.0,gemini-3.1-flash-lite; 1 attempt; 60s timeout,Tangential citation to password-handling policy; not proof of factual support
