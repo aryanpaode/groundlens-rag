@@ -1,9 +1,0 @@
-id,question,expected_evidence_document,expected_answer,review_note,actual_answer,correct_yes_no,citation_supported_yes_no,response_seconds
-M01,What is the registration fee stated in the original 2026 notice?,demo_campus_innovation_week_2026.pdf,INR 250; page 1,Actual answer must distinguish initial from revised fee.,,,,
-M02,What is the current revised 2026 registration fee?,demo_campus_innovation_week_2026_update.pdf,INR 300; amendment page 1,Do not silently cite superseded value.,,,,
-M03,What is the 2026 registration deadline after the amendment?,demo_campus_innovation_week_2026_update.pdf,22 Nov 2026 6 PM IST; page 1,Explicit amendment outranks v1.,,,,
-M04,What was the registration fee in 2025?,demo_campus_innovation_week_2025_archive.pdf,INR 180; page 1,Reject year confusion.,,,,
-M05,Compare the original and revised 2026 fee.,demo_campus_innovation_week_2026.pdf;demo_campus_innovation_week_2026_update.pdf,250 vs 300 and source citations for both,Enable cross-document coverage in sidebar.,,,,
-M06,What is the event Wi-Fi password?,,No password in provided documents,"Should abstain, no guessed credential.",,,,
-M07,What is the institute CEO phone number?,,Not found,Test unstated information.,,,,
-M08,Does the 2026 amendment change the 2026 team-size policy?,demo_campus_innovation_week_2026_update.pdf,No; two to four students remain,"Use updated page 2, cite.",,,,
