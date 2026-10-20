@@ -1,0 +1,4 @@
+-r requirements.txt
+# Additional test modules use only NumPy and PyMuPDF, already transitive/base dependencies.
+
+pytest>=8,<10

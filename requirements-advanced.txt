@@ -1,0 +1,5 @@
+# Install requirements.txt first. Optional features for the MAIN application only.
+# RAGAS has a separate environment: use requirements-ragas.txt, not this file.
+docling>=2.40,<3
+dspy[optuna]>=2.6,<4
+langfuse>=4,<5
