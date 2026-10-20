@@ -1,0 +1,23 @@
+id,category,question,expected_documents,expected_pages,expected_phrases
+01,direct,"In the initial October 12 version 1.0 circular, what was the 2026 registration fee?",demo_campus_innovation_week_2026.pdf,1,INR 250 per person
+02,direct,What is the registration deadline stated by the original 2026 circular?,demo_campus_innovation_week_2026.pdf,1,20 November 2026 at 6:00 PM IST
+03,direct,Where does the initial 2026 event take place?,demo_campus_innovation_week_2026.pdf,1,Innovation Hall
+04,direct,What email does the original 2026 notice give for event queries?,demo_campus_innovation_week_2026.pdf,1,events@example.org
+05,direct,At what time was the final 2026 showcase scheduled in the original program?,demo_campus_innovation_week_2026.pdf,2,03:00 PM: Final project showcase
+06,paraphrase,How much of the 2026 original judging marks are for novelty?,demo_campus_innovation_week_2026.pdf,2,originality (25%)
+07,direct,"According to the initial 2026 participation rules, how many students can join a team?",demo_campus_innovation_week_2026.pdf,3,between two and four students
+08,paraphrase,What did the original 2026 circular say about withdrawal refunds?,demo_campus_innovation_week_2026.pdf,3,on or before 20 November 2026
+09,direct,What revised 2026 registration fee is in the October 13 amendment?,demo_campus_innovation_week_2026_update.pdf,1,INR 300 per person
+10,direct,When is the amended registration deadline for 2026?,demo_campus_innovation_week_2026_update.pdf,1,22 November 2026 at 6:00 PM IST
+11,paraphrase,Which two rules does the 2026 amendment replace?,demo_campus_innovation_week_2026_update.pdf,1,registration fee and registration deadline
+12,direct,Who remains exempt from the fee in the amended 2026 notice?,demo_campus_innovation_week_2026_update.pdf,1,registered volunteers
+13,paraphrase,Does the 2026 amendment change the original judging rubric?,demo_campus_innovation_week_2026_update.pdf,2,judging rubric remain in effect
+14,direct,What 2026 showcase summary deadline is confirmed in the amendment?,demo_campus_innovation_week_2026_update.pdf,2,23 November 2026
+15,direct,How much did 2025 registration cost?,demo_campus_innovation_week_2025_archive.pdf,1,INR 180 per person
+16,direct,What was the registration deadline in the 2025 archive?,demo_campus_innovation_week_2025_archive.pdf,1,8 November 2025 at 5:00 PM IST
+17,direct,Which venue did the 2025 event use?,demo_campus_innovation_week_2025_archive.pdf,1,Old Exhibition Wing
+18,direct,How many students were allowed in a 2025 project team?,demo_campus_innovation_week_2025_archive.pdf,2,two or three students
+19,direct,What was the first prize amount for the 2025 edition?,demo_campus_innovation_week_2025_archive.pdf,2,"INR 4,000"
+20,compare,Compare the revised 2026 fee with the initial 2026 fee.,demo_campus_innovation_week_2026_update.pdf;demo_campus_innovation_week_2026.pdf,1;1,INR 300 per person;INR 250 per person
+21,missing,What is the Wi-Fi password for this event?,,,
+22,missing,Who is the CEO of Northbridge Institute of Technology?,,,
